@@ -6,3 +6,8 @@
 git config --global --unset http.proxy
 git config --global --unset https.proxy
 ```
+
+OpenSSL SSL_read: Connection was reset, errno 10054
+```shell
+git config --global http.sslVerify "false"
+```
