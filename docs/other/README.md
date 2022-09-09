@@ -7,6 +7,7 @@ chmod +x shadowsocksR.sh
 ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 ```
 
+密码： 默认即可    注意纯数字密码可能无法使用
 1.端口选择
 
 尽量随机 19283
