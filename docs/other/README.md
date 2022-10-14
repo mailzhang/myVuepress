@@ -52,7 +52,7 @@ chrome插件
 https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?hl=zh-CN
 ```
 
-## 配置bbr加速
+## 配置bbr加速(此步骤已不需要，新版本的linux已更新内核)
 ```
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 
