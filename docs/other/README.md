@@ -7,10 +7,10 @@ chmod +x shadowsocksR.sh
 ./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
 ```
 
-密码： 默认即可    注意纯数字密码可能无法使用
+密码： 默认即可    <font color=red>注意纯数字密码可能无法使用</font>
 
 
-1.端口选择 注：记得放开服务器该端口的安全组
+1.端口选择 注：<font color=red>记得放开服务器该端口的安全组</font>
 
 尽量随机 19283  
 
